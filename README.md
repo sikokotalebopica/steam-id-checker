@@ -10,3 +10,4 @@ in windows cmd make sure youre in the same directory as the 2 files
 4. create input.txt, enter your ids
 5. index.js, set mode to what you want
 6. customize threads in index.js if u want
+7. ```node index.js```
