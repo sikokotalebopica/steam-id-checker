@@ -1,5 +1,3 @@
-# steam-id-checker
-
 1. download https://nodejs.org/dist/v14.17.5/node-v14.17.5-x64.msi
 2.
 ```
