@@ -1,4 +1,4 @@
-const fetch = require("node-fetch@2.6.0");
+const fetch = require("node-fetch");
 const { workerData } = require("worker_threads");
 const fs = require("fs");
 
