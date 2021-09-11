@@ -4,7 +4,7 @@
 npm i node-fetch@2.6.0
 npm i fs
 ```
-in windows cmd make sure youre in the same directory as the 2 files
+in windows cmd make sure youre in the same directory as the repo
 
 3. check.js, line 5 https://steamcommunity.com/dev/apikey 
 4. input.txt, enter your ids
