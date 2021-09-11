@@ -3,7 +3,7 @@ const { Worker } = require("worker_threads");
 
 let ids = fs.readFileSync('input.txt', 'UTF-8').split(/\r?\n/);
 
-console.log(`found ${ids.length} ids fuck you nigger`)
+console.log(`found ${ids.length}`)
 
 let mode = true; // false = profile ids / true = group ids
 let threads = 50;
