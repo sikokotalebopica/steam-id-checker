@@ -2,7 +2,6 @@
 2. type
 ```
 npm i node-fetch@2.6.0
-npm i fs
 ```
 in windows cmd make sure youre in the same directory as the repo
 
