@@ -2,7 +2,7 @@ const fetch = require("node-fetch");
 const { workerData } = require("worker_threads");
 const fs = require("fs");
 
-let apikey = "ENTER IT HERE";
+let apikey = "F312EFFE017638320A4D3F861DD7713A";
 
 let mode = workerData.mode;
 let ids = workerData.ids;
